@@ -1,0 +1,39 @@
+#level1,#level2,#level3,#level4,#level5,#level6,#level7,#level8,#level9,#level10
+{
+	height: 30px;
+	width: 100%;
+}
+
+
+#fetchbtn
+{
+	float: right;
+}
+
+#stopbtn
+{
+	float: right;
+	margin-right: 2%;
+}
+
+#tankWrapper
+{
+	margin-left: 3%;
+}
+
+
+#tank
+{
+	margin-top: 3%;
+}
+
+#buttonSpace
+{
+	margin-top: 3%;
+}
+
+#level10
+{
+	border-radius: 0 0 10px 10px;
+}
+
